@@ -139,6 +139,7 @@ export default function Home() {
               borderRadius: "10px",
               margin: "0.7rem",
             }}
+            target="_blank"
           >
             View Code
           </a>
