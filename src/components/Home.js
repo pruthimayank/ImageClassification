@@ -129,8 +129,8 @@ export default function Home() {
           >
             Live Demo
           </Link>
-          <Link
-            to="/demo"
+          <a
+            href="https://github.com/pruthimayank/ImageClassification/tree/main"
             style={{
               textDecoration: "none",
               backgroundColor: "#004d77",
@@ -141,7 +141,7 @@ export default function Home() {
             }}
           >
             View Code
-          </Link>
+          </a>
         </div>
       </div>
 
